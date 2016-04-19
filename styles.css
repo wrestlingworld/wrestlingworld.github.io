@@ -1,7 +1,15 @@
+html {
+	background-color: #CB2018;
+}
+
 aside {
 	align-content: center;
 	padding: 0% 10%;
 	background-color: #1324aa;
 	margin: 0px 50px;
 
+}
+
+h1 {
+	color: #e5e5fa
 }
