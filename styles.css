@@ -1,6 +1,7 @@
 html {
+	font-family: Ariel;
 	background-color: #000;
-	color: #851aaa;
+	color: #CEF6F5;
 }
 
 aside {
@@ -15,9 +16,13 @@ aside {
 
 h1 {
 	color: #e5e5fa
-	font-size: 50px;
+	font-size: 10%;
 }
 
+.container {
+width: 80%;
+margin-right: 10px
+}
 nav {
 	background-color: #ccc;
 	padding: 10px;
@@ -47,8 +52,8 @@ li a:hover {
 
 }
 section {
-	width: 56%;
-	padding: 18px;
+	width: 19%;
+	padding: 8px;
 	display: inline-block;
 	background-color: #CB2018;
 }
