@@ -23,6 +23,10 @@ h1 {
 width: 80%;
 margin-right: 10px
 }
+
+main {
+	align-items: center;
+}
 nav {
 	background-color: #ccc;
 	padding: 100px;
@@ -56,9 +60,11 @@ li a:hover {
 
 }
 section {
-	width: 19%;
-	padding: 10px;
-	display: ruby;
+	width: 15%;
+	margin: 0 auto;
+	padding: 7px;
+	display: block;
 	background-color: #CB2018;
 	float: right;
+	
 }
