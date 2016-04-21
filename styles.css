@@ -1,10 +1,10 @@
 html {
-	font-family: Ariel;
+	font-family: Arial;
 	background-color: #000;
 	color: #CEF6F5;
 }
 
-aside {
+header {
 	text-align: center;
 
 	align-content: center;
@@ -15,8 +15,7 @@ aside {
 }
 
 h1 {
-	color: #e5e5fa
-	font-size: 10%;
+	color: #e5e5fa;
 }
 
 nav {
@@ -29,6 +28,7 @@ nav {
 nav ul {
 	list-style-type: none;
 	text-align: center;
+	height: 80%;
 }
 
 nav ul li {
@@ -51,23 +51,26 @@ li a:hover {
 	color: #fff;
 
 }
-section {
-	width: 15%;
-	padding: 7px;
-	display: block;
-	background-color: #CB2018;
+aside {
+	width: 10%;
+	padding: 10px;
 	float: right;
+	background-color: #585aaa;
 	
 }
 
 .container {
 width: 80%;
-margin-right: 10px
+margin-right: 10px;
 }
 
 main {
 	align-items: center;
-	background-color: #e02888;
 	display: inline-grid;
 }
 
+body {
+background-color: #57321B;
+color: #fff;
+font-family: Arial;
+}
