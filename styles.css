@@ -1,5 +1,6 @@
 html {
-	background-color: #CB2018;
+	background-color: #000;
+	color: #851aaa;
 }
 
 aside {
@@ -43,4 +44,10 @@ li a:hover {
 	font-weight: bold;
 	color: #fff;
 
+}
+section {
+	width: 56%;
+	padding: 18px;
+	display: inline-block;
+	background-color: #CB2018;
 }
