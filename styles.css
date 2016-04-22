@@ -23,6 +23,7 @@ nav {
 	padding: 100px;
 	align-content: right;
 	align-self: right;
+	display: inline-block;
 } 
 
 nav ul {
@@ -52,22 +53,23 @@ li a:hover {
 
 }
 aside {
-	width: 10%;
+	width: 20%;
 	padding: 10px;
-	float: right;
+	float: left;
 	background-color: #585aaa;
 	
 }
+section {
+	width: 60%;
+	float: right;
+}
 
 .container {
-width: 80%;
-margin-right: 10px;
+width: 75%;
+margin: 0 auto;
 }
 
-main {
-	align-items: center;
-	display: inline-grid;
-}
+
 
 body {
 background-color: #57321B;
